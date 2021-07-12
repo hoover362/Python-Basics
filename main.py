@@ -175,26 +175,26 @@
       # print(i)
 
 #example of password system
-import time
-import os
+#import time
+#import os
 
-def Clear():
+#def Clear():
     os.system('cls')
-Clear()
+#Clear()
 
-G = input("enter the password")
-while True:
-    if G == "amongussex":
-        print("good job nigger")
-        time.sleep(0.5)
-        break
-    else:
+#G = input("enter the password")
+#while True:
+  #  if G == "amongussex":
+    #    print("good job nigger")
+    #    time.sleep(0.5)
+     #   break
+  #  else:
         print("ERROR: WRONG")
-        time.sleep(5)
-        break
-Clear()
+      #  time.sleep(5)
+      #  break
+#Clear()
 
-print("wait")
-time.sleep(3)
-while 1==1:
-    print("HAHA NIGGER")
+#print("wait")
+#time.sleep(3)
+#while 1==1:
+   # print("HAHA NIGGER")
