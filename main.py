@@ -179,7 +179,7 @@
 #import os
 
 #def Clear():
-    os.system('cls')
+   # os.system('cls')
 #Clear()
 
 #G = input("enter the password")
@@ -189,7 +189,7 @@
     #    time.sleep(0.5)
      #   break
   #  else:
-        print("ERROR: WRONG")
+      #  print("ERROR: WRONG")
       #  time.sleep(5)
       #  break
 #Clear()
